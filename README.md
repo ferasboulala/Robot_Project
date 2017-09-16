@@ -17,6 +17,7 @@ B. Hardware prerequisites
   7. 1k and 600 ohms resistors;
   8. Jumper wires;
   9. Wifi Dongle for the RPi.
+![Alt text](Robot_Project_schematic.jpg?raw=true "Schematic")
 
 C. Installation
 
@@ -26,4 +27,5 @@ C. Installation
   3. Open Robot.py with Python 3 (IDLE) and press F5;
   4. Follow the instructions on screen.
 
+This is what the robot should look like (ignoring the chassis). A big mess of wires.
 ![Alt text](IMG_20170823_213321905.jpg?raw=true "Mobile_Robot")
