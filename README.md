@@ -25,3 +25,5 @@ C. Installation
   2. Connect all the hardware together. You should refer to Robot.py to know where to connect the GPIOs. Mount the Ultrasonic Sensor on top of the servo. We assume a general knowledge of how to power up everything (i.e. not connecting directly the 7.4V battery to the RPi but using voltage regulators instead, making sure the voltage regulators can give enough current without melting, etc.)
   3. Open Robot.py with Python 3 (IDLE) and press F5;
   4. Follow the instructions on screen.
+
+![Alt text](C:\Users\ff\Dropbox\PolyMtl\Session V\UPIR\IMG_20170829_172607090.jpg?raw=true "Optional Title")
