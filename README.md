@@ -26,4 +26,4 @@ C. Installation
   3. Open Robot.py with Python 3 (IDLE) and press F5;
   4. Follow the instructions on screen.
 
-![Alt text](/ferasboulala/Robot_Project/IMG_20170823_213321905.jpg?raw=true "Optional Title")
+(/ferasboulala/Robot_Project/IMG_20170823_213321905.jpg?raw=true "Optional Title")
