@@ -3,12 +3,12 @@ Entry-level Mobile Robot
 
 This repository is meant to document my projects in robotics. I do not provide enough information on to how everything should be set up as a basic README file wouldn't be comprehensive enough, even with schematics.
 
-A. Software prerequisites 
+# A. Software prerequisites 
   1. pigpio by Joan. Download the python library at http://abyz.co.uk/rpi/pigpio/download.html;
   2. Python 3.X (latest version);
   3. FileZila, VNC viewer and Putty (or any other similar programs) on a PC.
   
-B. Hardware prerequisites
+# B. Hardware prerequisites
   1. Raspberry Pi 2/3 model B;
   2. Two DC motors (no encoders are required);
   3. H-bridge based motor controller;
@@ -20,7 +20,7 @@ B. Hardware prerequisites
   9. Wifi Dongle for the RPi.
 ![img1](Robot_Project_schematic.jpg)
 
-C. Installation
+# C. Installation
 
   0. Connect your RPi to wifi and make sure you can remotely ssh and VNC into it.
   1. Transfer all the files of the repository to a folder in your RPi with FileZila or $ git clone https://github.com/ferasboulala/Robot_Project.git;
@@ -30,4 +30,4 @@ C. Installation
   4. Follow the instructions on screen.
 
 This is what the robot should look like (ignoring the chassis). A big mess of wires.
-![img3](IMG_20170823_213321905.jpg?w=100)
+![img3](IMG_20170823_213321905.jpg?w=10)
