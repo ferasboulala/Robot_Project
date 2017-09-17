@@ -18,7 +18,6 @@ This repository is meant to document my projects in robotics. I do not provide e
   7. 1k and 600 ohms resistors;
   8. Jumper wires;
   9. Wifi Dongle for the RPi.
-![img1](Robot_Project_schematic.jpg)
 
 # C. Installation
 
@@ -26,8 +25,6 @@ This repository is meant to document my projects in robotics. I do not provide e
   1. Transfer all the files of the repository to a folder in your RPi with FileZila or $ git clone https://github.com/ferasboulala/Robot_Project.git;
   2. Connect all the hardware together. You should refer to Robot.py to know where to connect the GPIOs. Mount the Ultrasonic Sensor on top of the servo. We assume a general knowledge of how to power up everything (i.e. not connecting directly the 7.4V battery to the RPi but using voltage regulators instead, making sure the voltage regulators can give enough current without melting, etc.)
   3. Open Robot.py with Python 3 (IDLE) and press F5;
-  ![img2](GUI.png)
   4. Follow the instructions on screen.
 
-This is what the robot should look like (ignoring the chassis). A big mess of wires.
-![img3](IMG_20170823_213321905.jpg?w=10)
+  ![img2](GUI.png)
