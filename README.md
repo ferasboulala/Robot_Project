@@ -30,4 +30,4 @@ C. Installation
   4. Follow the instructions on screen.
 
 This is what the robot should look like (ignoring the chassis). A big mess of wires.
-![img3](IMG_20170823_213321905.jpg=100x20)
+![img3](IMG_20170823_213321905.jpg){ width: 200px; }
