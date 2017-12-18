@@ -1,7 +1,7 @@
 # Robot_Project
 Entry-level Mobile Robot
 
-This repository is meant to document my projects in robotics. I do not provide enough information on to how everything should be set up as a basic README file wouldn't be comprehensive enough, even with schematics.
+This repository is meant to document my projects in robotics. I do not provide enough information on to how everything should be set up because a basic README file wouldn't be comprehensive enough, even with pictures. If one wishes to know more about this project, contact me at ferasboulala@gmail.com
 
 # A. Software prerequisites 
   1. ``` pigpio```  by Joan. Download the python library at http://abyz.co.uk/rpi/pigpio/download.html;
