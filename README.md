@@ -4,7 +4,7 @@ Entry-level Mobile Robot
 This repository is meant to document my projects in robotics. I do not provide enough information on to how everything should be set up as a basic README file wouldn't be comprehensive enough, even with schematics.
 
 # A. Software prerequisites 
-  1. pigpio by Joan. Download the python library at http://abyz.co.uk/rpi/pigpio/download.html;
+  1. ``` pigpio```  by Joan. Download the python library at http://abyz.co.uk/rpi/pigpio/download.html;
   2. Python 3.X (latest version);
   3. FileZila, VNC viewer and Putty (or any other similar programs) on a PC.
   
@@ -21,10 +21,10 @@ This repository is meant to document my projects in robotics. I do not provide e
 
 # C. Installation
 
-  0. Connect your RPi to wifi and make sure you can remotely ssh and VNC into it.
-  1. Transfer all the files of the repository to a folder in your RPi with FileZila or $ git clone https://github.com/ferasboulala/Robot_Project.git;
-  2. Connect all the hardware together. You should refer to Robot.py to know where to connect the GPIOs. Mount the Ultrasonic Sensor on top of the servo. We assume a general knowledge of how to power up everything (i.e. not connecting directly the 7.4V battery to the RPi but using voltage regulators instead, making sure the voltage regulators can give enough current without melting, etc.)
-  3. Open Robot.py with Python 3 (IDLE) and press F5;
+  0. Connect your RPi to wifi and make sure you can remotely ``` ssh```  and VNC into it.
+  1. Transfer all the files of the repository to a folder in your RPi with FileZila or ``` $ git clone https://github.com/ferasboulala/Robot_Project.git``` ;
+  2. Connect all the hardware together. You should refer to ``` Robot.py```  to know where to connect the GPIOs. Mount the Ultrasonic Sensor on top of the servo. We assume a general knowledge of how to power up everything (i.e. not connecting directly the 7.4V battery to the RPi but using voltage regulators instead, making sure the voltage regulators can give enough current without melting, etc.)
+  3. Open ``` Robot.py```  with ``` Python 3 (IDLE)```  and press F5;
   4. Follow the instructions on screen.
 
   ![img2](GUI.png)
