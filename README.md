@@ -1,6 +1,8 @@
 # Robot_Project
 Entry-level Mobile Robot
 
+<img src= entry_level_robot.jpg width="450" height="275"/>
+
 This repository is meant to document my projects in robotics. I do not provide enough information on to how everything should be set up because a basic README file wouldn't be comprehensive enough, even with pictures. If one wishes to know more about this project, contact me at ferasboulala@gmail.com
 
 # A. Software prerequisites 
